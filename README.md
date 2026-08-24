@@ -1,6 +1,6 @@
 ### Meu nome é Noemi
 
-Sou enfermeira, porém me apaixonei por Ciência de Dados. Estou finalizando o curso.
+Sou enfermeira, porém me apaixonei por Análise de Dados. Estou cursando a Pós-Graduação em Data Analytics e IA aplicada a Negociação, na FNAT.
 
 Gosto muito de aprender coisas novas, fazer novas amizades e viajar.
 
